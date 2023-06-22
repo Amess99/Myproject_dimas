@@ -1,1 +1,1 @@
-repository baru dari lokal lkomputer
+# repository baru dari lokal lkomputer
